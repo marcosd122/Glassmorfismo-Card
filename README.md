@@ -1,6 +1,6 @@
-# Curso-WEB -- Aplicativo Meteorológico
+# Curso-WEB -- Glassmorfismo Card
 
-Projeto de desenvolvimento Aplicativo Meteorológico
+Projeto de desenvolvimento Glassmorfismo Card
 
 Atividade curso Web
 
