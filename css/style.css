@@ -35,10 +35,23 @@
     font-family: "Poppins", sans-serif;
   }
 
+  .container {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
   .card {
     position: relative;
     width: 360px;
-    height: 420px;    
+    height: 420px;   
+    
+    display: flex;
+    align-items: flex-end;
+    margin: 1rem 4rem;  
   }
 
   .card .card-inner {
